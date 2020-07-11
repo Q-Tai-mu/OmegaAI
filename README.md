@@ -1,0 +1,2 @@
+# OmegaAI
+基于微服务SpringCloud+SpringBoot作为后台，及以Electron作为桌面运行框架而搭建的智能聊天AI
